@@ -4,7 +4,7 @@
 Instagram is one of the most widely used social media platform in the current time and with this heavy usage comes a ton of data that is there to be analysed.
 
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)
+![Logo](https://www.shutterstock.com/image-photo/bangkok-thailand-may-14-2016-260nw-419396578.jpg)
 
 
 ## 🚀 Project Requirements
