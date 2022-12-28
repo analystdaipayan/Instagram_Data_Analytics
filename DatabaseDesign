@@ -1,12 +1,10 @@
-# INSTAGRAM DATABASE DESIGN
+INSTAGRAM DATABASE DESIGN
 
 -- We will be Creating a Clone Database of Instagram, to perform our Analytics
 
 CREATE DATABASE ig_clone;
 
 USE ig_clone;
-
-
 
 -- Creating a table comprising of INSTAGRAM USERS data
 
