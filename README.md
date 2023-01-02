@@ -11,7 +11,7 @@ Instagram is one of the most widely used social media platform in the current ti
 
 The Instagram MARKETING TEAM and the INVESTOR TEAMS requires the Data Analysts in the company to give them insights of the Users on different parameters.
 
-💡 MARKETING TEAM REQUIREMENTS:
+#### 💡 MARKETING TEAM REQUIREMENTS:
 
 - Want to reward the 5 most loyal/oldest Instagram Users.
 - Send reminder mails to the Inactive users who never posted.
@@ -19,7 +19,7 @@ The Instagram MARKETING TEAM and the INVESTOR TEAMS requires the Data Analysts i
 - Use most popular hashtag for a promotional brand.
 - Launch an AD Campaign on the most active day of the week.
 
-💡 INVESTING TEAM REQUIREMENTS:
+#### 💡 INVESTING TEAM REQUIREMENTS:
 
 - Average User Engagement on the platform.
 - Identify the fake/bot accounts on the platform.
